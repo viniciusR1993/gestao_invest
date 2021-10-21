@@ -1,0 +1,14 @@
+# iginora a pasta de configuração do jupyter
+.ipynb_
+
+# ignora tudo na pasta
+/.ipynb_checkpoints
+
+# Ignorar os .pdf dos fundos
+BB*
+
+# Ignora a pasta do python
+/__pychache__
+
+# ignora os arquivos python
+__py*
